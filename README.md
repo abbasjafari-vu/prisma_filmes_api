@@ -1,4 +1,4 @@
-# API de Aluguer de Filmes com Prisma IO e Sqlite
+# API de Aluguer de Filmes com Prisma.IO Typescript ExpressJS e SqliteDB
 
 Esse projecto foi feito acompanhando os videos do Gabriel criando um mini-projecto com prisma.
 
